@@ -10,7 +10,7 @@ namespace Text_to_asterisk
             IArtWriter writer = new ArtWriter();
             var settings = new ArtSetting
             {
-                ConsoleSpeed = 50, // Console write speed , the lower value gives moree speed
+                ConsoleSpeed = 50, // Console write speed , the lower value gives more speed
                 Text = "*",  // text symbol
                 BgText = " "  // background symbol
                 
