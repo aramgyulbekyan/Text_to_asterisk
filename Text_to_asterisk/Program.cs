@@ -10,10 +10,9 @@ namespace Text_to_asterisk
             IArtWriter writer = new ArtWriter();
             var settings = new ArtSetting
             {
-                ConsoleSpeed = 100,
-                IsBreakSpace = true,
-                Text = "*",
-                BgText = " "
+                ConsoleSpeed = 50, // Console write speed , the lower value gives moree speed
+                Text = "*",  // text symbol
+                BgText = " "  // background symbol
             };
             writer.WriteConsole("ARAM", settings);
 
