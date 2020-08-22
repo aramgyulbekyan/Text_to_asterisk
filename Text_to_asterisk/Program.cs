@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Numerics;
 using TextToAsciiArt;
 
 namespace Text_to_asterisk
@@ -23,7 +22,7 @@ namespace Text_to_asterisk
             string name = Console.ReadLine();
             writer.WriteConsole(name, settings);*/
 
-           // version for homework
+            // version for homework
             writer.WriteConsole("ARAM", settings);
         }
     }
