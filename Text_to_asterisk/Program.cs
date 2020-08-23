@@ -19,7 +19,7 @@ namespace Text_to_asterisk
             //version with user input 
 
             //Console.WriteLine("Output 2");
-            //Console.WriteLine("_", 15);
+           
 
             /*Console.WriteLine("please input name");
             string name = Console.ReadLine();
