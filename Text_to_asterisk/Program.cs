@@ -26,12 +26,12 @@ namespace Text_to_asterisk
             writer.WriteConsole(name, settings);*/
 
             // version for homework
-
+            Console.WriteLine("Output 2 ");
             writer.WriteConsole("ARAM", settings);
 
             // Writeline output
             Console.WriteLine("Output 3 ");
-            Console.WriteLine("_",15);
+           
             Console.WriteLine("     ***    ********      ***    **     **");
             Console.WriteLine("    ** **   **     **    ** **   ***   ***");
             Console.WriteLine("   **   **  **     **   **   **  **** ****");
