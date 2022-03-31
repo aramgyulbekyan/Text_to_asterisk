@@ -16,29 +16,29 @@ namespace Text_to_asterisk
                 
             };
 
-            //version with user input 
+            //version with user input
 
-            //Console.WriteLine("Output 2");
-           
+            Console.WriteLine("Output 2");
 
-            /*Console.WriteLine("please input name");
+
+            Console.WriteLine("please input name");
             string name = Console.ReadLine();
-            writer.WriteConsole(name, settings);*/
+            writer.WriteConsole(name, settings);
 
             // version for homework
             Console.WriteLine("Output 2 ");
             writer.WriteConsole("ARAM", settings);
 
             // Writeline output
-            Console.WriteLine("Output 3 ");
+            //Console.WriteLine("Output 3 ");
            
-            Console.WriteLine("     ***    ********      ***    **     **");
-            Console.WriteLine("    ** **   **     **    ** **   ***   ***");
-            Console.WriteLine("   **   **  **     **   **   **  **** ****");
-            Console.WriteLine("  **     ** ********   **     ** ** *** **");
-            Console.WriteLine("  ********* **   **    ********* **     **");
-            Console.WriteLine("  **     ** **    **   **     ** **     **");
-            Console.WriteLine("  **     ** **     **  **     ** **     **");
+            //Console.WriteLine("     ***    ********      ***    **     **");
+            //Console.WriteLine("    ** **   **     **    ** **   ***   ***");
+            //Console.WriteLine("   **   **  **     **   **   **  **** ****");
+            //Console.WriteLine("  **     ** ********   **     ** ** *** **");
+            //Console.WriteLine("  ********* **   **    ********* **     **");
+            //Console.WriteLine("  **     ** **    **   **     ** **     **");
+            //Console.WriteLine("  **     ** **     **  **     ** **     **");
 
         }
     }
